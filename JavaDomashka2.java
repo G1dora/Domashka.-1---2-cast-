@@ -7,6 +7,9 @@ public class JavaDomashka2 {
       //Домашнее задание №2
       //часть 1
       
+    int[] numberArray = new int[10]; 
+for(int i = 0; i < 10; i++){     
+    numberArray[i] = i;           
 }
 int maxIn = 0;
 int minIn = 0; 
